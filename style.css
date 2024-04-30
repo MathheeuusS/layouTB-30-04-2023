@@ -1,0 +1,51 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+main
+{
+    border: 1px solid black;
+    max-width: 1200px;
+    margin: auto;
+    height: 100%;
+}
+
+header,section,footer
+{
+    border: 1px solid black;
+    margin: 1rem;
+    text-align: center;
+    background-color: #575794;
+    color: #FFF;
+}
+
+header
+{
+    min-height: 200px;
+}
+
+article
+{
+    display: flex;
+}
+
+section
+{
+    min-height: 300px;
+}
+
+.texto1
+{
+    width: 100%;
+}
+footer
+{
+    min-height: 200px;
+}
+div
+{
+    width: 100%;
+}
